@@ -56,7 +56,7 @@ Create a file named `data.txt` in the project directory and add the card numbers
 ### 2. Run the Python Script
 Execute the Python script to start real-time card detection:
 ```bash
-python servo_controller_ocr.py
+python ocr.py
 ```
 
 - The webcam will capture frames and process them for OCR.
