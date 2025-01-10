@@ -123,5 +123,6 @@ This project is open-source and available under the [License](LICENSE).
 - [OpenCV](https://opencv.org/)
 - Arduino community for their comprehensive documentation and examples.
 
+
 <p align="center">©️ 2025 Rechan Dinata</p>
 
