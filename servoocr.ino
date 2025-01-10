@@ -1,5 +1,4 @@
 #include <Servo.h>
-
 #define SERVO_PIN 2
 
 Servo myServo; 
